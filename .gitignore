@@ -1,0 +1,16 @@
+﻿*.[oa]
+*~
+*.exp
+*.ilk
+*.manifest
+*.rc
+*.res
+*.user
+*.user.*
+*.pdb
+*.7z
+*.zip
+__pycache__
+build-*
+6.code/Debug*
+6.code/Release*
