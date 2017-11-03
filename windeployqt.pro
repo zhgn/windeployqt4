@@ -32,4 +32,5 @@ CONFIG += force_bootstrap
 
 win32: LIBS += -lshlwapi -luser32 -lOle32
 
-#load(qt_tool)
+CONFIG(debug, debug | release) : TARGET = '$$TARGET'd
+#message($$TARGET)

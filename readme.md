@@ -6,3 +6,7 @@ Porting windeployqt from qt5.9.2 to qt4
 
 system: windows 10 64bit
 Qt:		Qt4.8.7 32bit vs2010
+
+# QJson
+
+clone from https://github.com/eteran/qjson4
